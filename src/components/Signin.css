@@ -1,0 +1,11 @@
+#b{
+    background-color:  #9966CC;
+}
+.form-body{
+    align-items: center;
+    text-align: center;
+    margin-top: 5%;
+}
+.form__label{
+    color:    #9966CC;
+}

@@ -1,0 +1,32 @@
+#cd{
+    background-color: white;
+}
+.k{
+    color:black;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: medium;
+    font-weight: bolder;
+}
+#f{
+    text-align: center;
+    font-size: small;
+    font-weight: 400;
+    
+}
+#u{
+    text-transform: uppercase;
+    color: black;
+    font-weight: 600;
+}
+#yu{
+    color:red;
+    margin-left: 540px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-shadow: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    font-style: italic;
+}

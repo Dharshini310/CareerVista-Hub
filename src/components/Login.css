@@ -1,0 +1,17 @@
+.login{
+    margin-top: 5%;
+    margin-left: 40%;
+    margin-right: 35%;
+    color: #9966CC;
+    text-align: center;
+}
+.formInput{
+    align-items: center;
+}
+#b{
+    background-color:#9966CC;
+    color:whitesmoke;
+}
+#u{
+    align-items: center;
+}
