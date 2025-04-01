@@ -9,7 +9,7 @@ import './About.css';
 export default class About extends Component {
   render() {
     return (
-      <div id="s">
+      <div classname="s">
         {/* You can link to "/blank" without displaying text */}
         <Link to="/blank" style={{ display: 'none' }}></Link>
 
