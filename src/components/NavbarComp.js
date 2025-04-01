@@ -3,8 +3,6 @@ import { Navbar, Nav, Container } from 'react-bootstrap';
 import { BrowserRouter as Router, Route, Link, Routes } from "react-router-dom";
 import './Nav.css';
 import About from "./About";
-import Login from "./Login";
-import Signin from "./Signin";
 import Home from "./Home";
 import Blank from './Blank';
 import Coding from './Coding';
@@ -24,8 +22,6 @@ export default class NavbarComp extends Component {
                 <Nav className="me-auto">
                   <Nav.Link as={Link} to={"/"} id="ck">Home</Nav.Link>&nbsp;&nbsp;
                   <Nav.Link as={Link} to={"/about"} id="j">About</Nav.Link>
-                  <Nav.Link as={Link} to={"/login"} id="i">Login</Nav.Link>
-                  <Nav.Link as={Link} to={"/signin"} id="i">Signin</Nav.Link>
                   <Nav.Link as={Link} to={"/blank"} id="c">Coding</Nav.Link>
                   <Nav.Link as={Link} to={"/course"} id="c">Courses</Nav.Link>
                   <Nav.Link as={Link} to={"/intern"} id="c">Internship</Nav.Link>
