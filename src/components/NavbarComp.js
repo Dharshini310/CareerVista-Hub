@@ -31,8 +31,6 @@ export default class NavbarComp extends Component {
           </Navbar>
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/login" element={<Login />} />
-            <Route path="/signin" element={<Signin />} />
             <Route path="/about" element={<About />} />
           </Routes>
           <Routes>
